@@ -7,3 +7,5 @@ all the details of configuration and execution. Features:
 - The embedded server supports all Tomcat features including dynamic loading of servlets (synchronous or async), listeners, etc. using the usual annotations (e.g. @WebServlet).
 
 If the layout of classes and static web resources is not that of the usual Eclipse 'Dynamic Web' project, some adjustment of the static path values may be needed (see issue https://github.com/cabintech/TCEmbed/issues/1#issue-3370439441).
+
+This project can be used to create desktop Java applications with a web browser user interface. 
